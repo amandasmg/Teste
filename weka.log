@@ -1,0 +1,19 @@
+2014-11-28 15:09:24 weka.gui.GUIChooser main
+INFO: Logging started
+---Registering Weka Editors---
+Trying to add database driver (JDBC): RmiJdbc.RJDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): jdbc.idbDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.gjt.mm.mysql.Driver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): com.mckoi.JDBCDriver - Error, not in CLASSPATH?
+Trying to add database driver (JDBC): org.hsqldb.jdbcDriver - Error, not in CLASSPATH?
+2014-11-28 15:09:35 weka.gui.explorer.Explorer <init>
+INFO: Weka Explorer
+2014-11-28 15:09:35 weka.gui.explorer.Explorer <init>
+INFO: (c) 1999-2014 The University of Waikato, Hamilton, New Zealand
+2014-11-28 15:09:35 weka.gui.explorer.Explorer <init>
+INFO: web: http://www.cs.waikato.ac.nz/~ml/weka/
+2014-11-28 15:09:35 weka.gui.explorer.Explorer <init>
+INFO: Started on Sexta-feira, 28 Novembro 2014
+CALLED ExperimentEnvironment
+[DEBUGGER] ---- Setup
+Tester set to: weka.experiment.PairedCorrectedTTester

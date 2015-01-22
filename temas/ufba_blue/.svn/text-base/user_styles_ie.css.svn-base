@@ -1,0 +1,201 @@
+body {
+	background: #ffb95f url('pix/grad_body.png') left top repeat-x;
+	color: #000;
+}
+
+div#header-home div.i3 {
+	background-color: #ff7f2a;
+	color: #ffffff;
+	border: none;
+}
+div#header-home div.i3 h1 {
+	text-indent: -5000em;
+}
+div#header-home div.bt div {
+	background-image: url(pix/box.gif);
+}
+div#header-home div.bt {
+	background-image: url(pix/box.gif);
+}
+div#header-home div.i1 {
+	background-image: url(pix/borders.gif);
+}
+div#header-home div.i2 {
+	background-image: url(pix/borders.gif);
+}
+div#header-home div.bb div {
+	background-image: url(pix/box.gif);
+}
+div#header-home div.bb {
+	background-image: url(pix/box.gif);
+}
+
+div.sideblock div.header div.i3 {
+  background-color: #ffaa2a;
+  border-top-color: #ffaa2a;
+  border-bottom-color: #ffaa2a;
+}
+div.sideblock div.bt div {
+  background-image: url(pix/box_sideblock.gif);
+}
+div.sideblock div.bt {
+  background-image: url(pix/box_sideblock.gif);
+}
+div.sideblock div.header div.bt div {
+  background-image: url(pix/box_sideblock.gif);
+}
+div.sideblock div.header div.bt {
+  background-image: url(pix/box_sideblock.gif);
+}
+div.sideblock div.header div.i1 {
+  background-image: url(pix/borders_sideblock.gif);
+}
+div.sideblock div.header div.i2 {
+  background-image: url(pix/borders_sideblock.gif);
+}
+
+div.sideblock div.i1 {
+  background-image: url(pix/borders.gif);
+}
+div.sideblock div.i2 {
+  background-image: url(pix/borders.gif);
+}
+div.sideblock div.i3 { 
+  background-color: #ffffff;
+}
+div.sideblock div.bb div {
+  background-image: url(pix/box.gif);
+}
+div.sideblock div.bb {
+  background-image: url(pix/box.gif);
+}
+div.sideblock div.content {
+  background-color: #ffffff;
+}
+
+div#page hr {
+	visibility: hidden;
+}
+div.i3 hr {
+	color: #000;
+	visibility: visible !important;
+}
+
+div.depth0:hover,
+div.depth1:hover,
+div.depth2:hover {
+	background-color: #ffe7b1;
+}
+a:link,
+a:visited {
+  color: #ae0c0c;
+}
+a:hover {
+	color: #ae0c0c;
+	text-decoration: underline;
+}
+div#header-home div.i3 a:link,
+div#header-home div.i3 a:visited,
+div#header div.i3 a:link,
+div#header div.i3 a:visited {
+	color: #ffffff;
+	font-weight: bold;
+}
+div#header-home div.i3 a:hover {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: underline;
+}
+div.depth0 a:hover,
+div.depth1 a:hover,
+div.depth2 a:hover {
+	text-decoration: none;
+	font-size: 100%;
+}
+
+div#footer div.bt div {
+  background-image: url(pix/box.gif);
+}
+div#footer div.bt {
+  background-image: url(pix/box.gif);
+}
+div#footer div.i1 {
+  background-image: url(pix/borders.gif);
+}
+div#footer div.i2 {
+  background-image: url(pix/borders.gif);
+}
+div#footer div.i3 {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+div#footer div.bb div {
+  background-image: url(pix/box.gif);
+}
+div#footer div.bb {
+  background-image: url(pix/box.gif);
+}
+
+div.sideblock div.header div.commands {
+  background-color: #ffaa2a;
+}
+
+div#header div.i3 {
+	display: block;
+  background: #FFC266 url('pix/logo.png') 0% 50% no-repeat;
+	border: none;
+	min-height: 80px;	
+}
+h1.headermain {
+  color: #000;
+	font-size: 150%;
+	font-family: sans-serif;
+	vertical-align: 50%;
+	padding-left: 90px;
+	padding-top: 15px;
+}
+div#header div.i3 a {
+	color: #900000 !important;
+}
+
+legend.ftoggler {
+	color: #000 !important;
+}
+
+.mform fieldset {
+	border: 1px solid #000;
+	border-bottom-color: #e8e8e8;
+}
+
+div.generalbox {
+	border: 1px solid #FFF;
+}
+
+h2.headingblock {
+  background-image: none;
+	border: none;
+	color: #800000;
+	font-size: 150%;
+	font-family: sans-serif;
+}
+
+div.navbar {
+  padding: 3px 3px 6px 0;
+  margin: 5px 0 0 0;
+  clear: both;
+  background-color: #FFFFFF;
+  background-image: url(pix/header.png);
+  background-repeat: repeat-x;
+  background-position: left bottom;
+	border: none;
+	border-top: 1px solid #900000;
+	border-bottom: 1px solid #900000;
+}
+
+div.breadcrumb span.sep {
+  color: #000;
+}
+
+table.generaltable {
+  background-color: #FFF;
+}

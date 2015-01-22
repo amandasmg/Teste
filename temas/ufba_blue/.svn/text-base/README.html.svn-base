@@ -1,0 +1,8 @@
+<h3>TEMA BLUE_UFBA</h3>
+<hr />
+
+<p>Tema do Moodle baseado no tema custom_corners e customizado especificamente para o Moodle da Universidade Federal da Bahia.</p>
+
+<p><b>Autores:</b> Equipe do Projeto EAD - CPD - Moodle UFBA.</p>
+
+<p><b style="color: #FF0000">OBS.:</b> Para utilizar os &#237;cones do tema, copie todas as imagens da pasta <b>imagens_novas</b> para a pasta <b>pix/i/</b> dentro do diret&#243;rio principal de instala&#231;&#227;o do Moodle.<br />Se quiser reverter as imagens para as originais do Moodle, fazer o mesmo procedimento acima, mas utilizando as imagens da pasta <b>imagens_originais</b>.</p>

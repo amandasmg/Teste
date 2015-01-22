@@ -1,0 +1,240 @@
+body {
+	background: transparent url("pix/grad_body.gif") repeat-x fixed left top;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+}
+
+div#page{
+	margin: 0 2%;
+}
+
+div#page hr {
+	visibility: hidden;
+}
+
+td#right-column{
+	min-width: 20%;
+}
+
+div#content div.ccbox {
+	background-image: none;
+	background-color: #F2F2F2;
+}
+
+h1.headermain {
+  	color: #000;
+	font-size: 150%;
+	font-family: sans-serif;
+	vertical-align: 50%;
+	padding-left: 90px;
+	padding-top: 15px;
+}
+
+#header {
+	background-color: #ffffff;
+	padding: 8px;
+}
+
+#header .headermain{
+	background:#FFFFFF url(pix/logo-ufba.gif) no-repeat scroll 0 50%;
+	border:none;
+	min-height:80px;
+	border-style: none;
+}
+
+div.header {
+	background-color: #DDDDDD;
+	font-weight: bold;
+}
+
+div#header-home  {
+	color: #FFFFFF;
+	border: 4px solid #ffffff;
+}
+
+div#header-home h1{
+	display: none;
+}
+
+div#header-home a:link,
+div#header-home a:visited,
+div#header-home a:hover {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+div#header-home div.headermenu{
+	padding: 8px;
+}
+
+div.depth0 a:hover,
+div.depth1 a:hover,
+div.depth2 a:hover {
+	background-color: #DDD;
+	text-decoration: none;
+	font-size: 100%;
+}
+
+#layout-table #middle-column {
+	border: 1px solid #ddd;
+}
+
+.sideblock h2{
+	color: #00008B;	
+}
+
+.sideblock .header {
+	min-height: 15px;
+}
+
+div.sideblock div.header {
+	padding:0px;
+}
+
+.sideblock .header .commands {
+  background-color: #DDD;
+}
+
+.sideblock .header, .sideblock h2 {
+	font-size:1em;
+	font-weight:bold;
+}
+
+div.sideblock .content h2 {
+	font-size: 1.25em;
+}
+
+div#content {
+	font-size:1.1em;
+	line-height:1.6em;
+}
+
+.generalbox {
+	background-color: #FFFFFF;
+	border: 1px solid #DDD;
+}
+
+div#page hr {
+	visibility: hidden;
+}
+
+div.sideblock div.header{
+	padding: 5px 5px 5px 5px;
+	background-color: #DDD;
+	border-top-color: #DDD;
+	border-bottom-color: #DDD;
+	font-weight: bold;
+}
+
+div.sideblock div.content {
+	background-color: #FFFFFF;
+}
+
+div.sideblock div.header div.commands {
+  background-color: #DDD;
+}
+
+.box {
+	background-color: #FFFFFF;
+}
+
+#layout-table #middle-column {
+	background-color: #FFFFFF;
+	padding-top: 5px;
+}
+
+#layout-table #left-column {
+	padding-right: 10px;
+}
+
+#layout-table #right-column {
+	padding-left: 10px;
+}
+
+body#course-category .buttons {
+	margin-top: 0px;
+}
+
+body#course-category .courseboxes, body#course-index .courseboxes {
+	padding: 15px;
+}
+
+.coursebox {
+	margin-bottom: 0px;
+}
+
+td {
+	padding-top: 0px;
+}
+
+a:link,
+a:visited {
+	color: #07519A;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div.generalbox {
+	border: 1px solid #DDD;
+}
+
+.navbar{
+	padding: 3px 3px 6px 0;
+  	margin: 5px 0 0 0;
+  	clear: both;
+  	background-color: #FFFFFF;
+  	background-image: url(pix/header.png);
+  	background-repeat: repeat-x;
+  	background-position: left bottom;
+	border: none;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	font-size: 1.2em;
+}
+
+.notifysuccess {
+	color: #006600;
+}
+
+.forumheaderlist, .forumpost {
+	border:1px solid #DDD;
+	background-color: #ffffff;
+}
+
+.forumheaderlist .discussion .starter {
+	background: #ffffff;
+}
+
+.loginbox.twocolumns {
+	background-color: #ffffff;
+}
+
+body#message-user,
+body#message-messages,
+body#message-send
+body#mod-chat-gui_header_js-jsupdate {
+	background-image: none !important;
+	background-color: #FFF;
+}
+
+body#course-view tr.current td.side {
+	background: #C5D4DF none repeat scroll 0 0;
+}
+/*se eu faço essa modificaçao, a pagina fica com o fundo do conteudo todo branco. se eu nao faço, nao tenho como colocar o fundo de algumas coisas para ficarem brancos, pois nao estao dentro de nenhuma classe*/
+div#content {
+	background-color: #ffffff;
+	margin-top: 5px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+
+#footer{
+	background-color: #ffffff;
+	border-color: #ffffff;
+	border-top: 1px solid #ddd;
+	border-bottom: 2px solid #ddd;
+}
+
+

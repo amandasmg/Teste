@@ -1,0 +1,332 @@
+body {
+	background: #EEE url('pix/grad_body.gif') left top repeat-x;
+	color: #000;
+	background-attachment: fixed;
+}
+
+div#page {
+	margin: 0 2%;
+}
+
+td#right-column {
+	min-width: 20%;
+}
+
+div#content div.ccbox {
+	background-image: none;
+	background-color: #F2F2F2;
+}
+
+div#header-home div.i3 {
+	color: #ffffff;
+	border: none;
+}
+div#header-home div.i3 h1 {
+	text-indent: -5000em;
+}
+div#header-home div.bt div {
+	background-image: url(pix/box.png);
+}
+div#header-home div.bt {
+	background-image: url(pix/box.png);
+}
+div#header-home div.i1 {
+	background-image: url(pix/borders.png);
+}
+div#header-home div.i2 {
+	background-image: url(pix/borders.png);
+}
+div#header-home div.bb div {
+	background-image: url(pix/box.png);
+}
+div#header-home div.bb {
+	background-image: url(pix/box.png);
+}
+
+div.sideblock div.header div.i3 {
+  background-color: #DDD;
+  border-top-color: #DDD;
+  border-bottom-color: #DDD;
+  font-weight: bold;
+}
+div.sideblock h2 {
+	color: #00008B;
+}
+div.sideblock div.bt div {
+  background-image: url(pix/box_sideblock.png);
+}
+div.sideblock div.bt {
+  background-image: url(pix/box_sideblock.png);
+}
+div.sideblock div.header div.bt div {
+  background-image: url(pix/box_sideblock.png);
+}
+div.sideblock div.header div.bt {
+  background-image: url(pix/box_sideblock.png);
+}
+div.sideblock div.header div.i1 {
+  background-image: url(pix/borders_sideblock.png);
+}
+div.sideblock div.header div.i2 {
+  background-image: url(pix/borders_sideblock.png);
+}
+
+div.sideblock div.i1 {
+  background-image: url(pix/borders.png);
+}
+div.sideblock div.i2 {
+  background-image: url(pix/borders.png);
+}
+div.sideblock div.i3 { 
+  background-color: #ffffff;
+}
+div.sideblock div.bb div {
+  background-image: url(pix/box.png);
+}
+div.sideblock div.bb {
+  background-image: url(pix/box.png);
+}
+div.sideblock div.content {
+  background-color: #ffffff;
+}
+
+div#page hr {
+	visibility: hidden;
+}
+div.i3 hr {
+	color: #EEE;
+	visibility: visible !important;
+}
+
+div.depth0:hover,
+div.depth1:hover,
+div.depth2:hover {
+	background-color: #DDD;
+}
+a:link,
+a:visited {
+	color: #07519A;
+}
+a:hover {
+	text-decoration: underline;
+}
+div#header-home div.i3 a:link,
+div#header-home div.i3 a:visited {
+	color: #ffffff;
+	font-weight: bold;
+}
+div#header-home div.i3 a:hover {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: underline;
+}
+div.depth0 a:hover,
+div.depth1 a:hover,
+div.depth2 a:hover {
+	text-decoration: none;
+	font-size: 100%;
+}
+
+div#footer div.bt div {
+  background-image: url(pix/box.png);
+}
+div#footer div.bt {
+  background-image: url(pix/box.png);
+}
+div#footer div.i1 {
+  background-image: url(pix/borders.png);
+}
+div#footer div.i2 {
+  background-image: url(pix/borders.png);
+}
+div#footer div.i3 {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+div#footer div.bb div {
+  background-image: url(pix/box.png);
+}
+div#footer div.bb {
+  background-image: url(pix/box.png);
+}
+
+div.sideblock div.header div.commands {
+  background-color: #DDD;
+}
+
+div#header div.i3 {
+	display: block;
+	background: #FFF url('pix/logo-ufba.gif') 0% 50% no-repeat;
+	border: none;
+	min-height: 80px;	
+}
+h1.headermain {
+  color: #000;
+	font-size: 150%;
+	font-family: sans-serif;
+	vertical-align: 50%;
+	padding-left: 90px;
+	padding-top: 15px;
+}
+
+legend.ftoggler {
+	color: #000 !important;
+}
+
+.mform fieldset {
+	border: 1px solid #E8E8E8;
+	border-bottom-color: #E8E8E8;
+}
+
+div.generalbox {
+	border: 1px solid #FFF;
+}
+
+h2.headingblock {
+  background-image: none;
+	border: none;
+	color: #00008B;
+	font-size: 150%;
+	font-family: sans-serif;
+}
+
+div.navbar {
+	padding: 3px 3px 6px 0;
+  	margin: 5px 0 0 0;
+  	clear: both;
+  	background-color: #FFFFFF;
+  	background-image: url(pix/header.png);
+  	background-repeat: repeat-x;
+  	background-position: left bottom;
+	border: none;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
+
+div.breadcrumb span.sep {
+  color: #000;
+}
+
+table.generaltable {
+  background-color: #FFF;
+}
+
+div#header div.bt div {
+	background-image: url(pix/box.png);
+}
+div#header div.bt {
+	background-image: url(pix/box.png);
+}
+div#header div.i1 {
+	background-image: url(pix/borders.png);
+}
+div#header div.i2 {
+	background-image: url(pix/borders.png);
+}
+div#header div.bb div {
+	background-image: url(pix/box.png);
+}
+div#header div.bb {
+	background-image: url(pix/box.png);
+}
+
+div.generalbox {
+	border: 1px solid #DDD;
+}
+
+.block_admin_tree.sideblock .link.current {
+	background-color: #DDD;
+}
+
+div.block_adminblock {
+	min-width: 230px;
+}
+
+div.noticebox {
+	background-color: #CCC !important;
+}
+
+.notifysuccess {
+	color: #006600;
+}
+#admin-lang .translator tr.r1 {
+	background-color:#FAFAFA;
+}
+#admin-lang .translator tr.r0 {
+	background-color:#F0F0F0;
+}
+#admin-lang .translator .strkey {
+	color:#666666;
+	font-size: 0.75em;
+}
+#admin-lang .translator .localdifferent {
+	background-color:#AAFFAA;
+}
+
+body#course-view tr.current td.side {
+	background: #C5D4DF none repeat scroll 0 0;
+}
+
+body#message-user,
+body#message-messages,
+body#message-send
+body#mod-chat-gui_header_js-jsupdate {
+	background-image: none !important;
+	background-color: #FFF;
+}
+body#mod-chat-gui_header_js-users,
+body#mod-chat-gui_header_js-jsupdate {
+	background-image: none !important;
+	background-color: #FAFAFA;
+}
+
+body#mod-chat-gui_header_js-chatinput { 
+	background-image: none !important;
+	background-color: #CCC;
+}
+
+#calendar .duration_global, 
+#calendar .duration_course, 
+#calendar .duration_group,
+#calendar .duration_user,
+.minicalendar .duration_global,
+.minicalendar .duration_course,
+.minicalendar .duration_group,
+.minicalendar .duration_user {
+	border-bottom: none !important;
+	border-top: none !important;
+}
+
+abbr,
+acronym {
+	border-bottom: none;
+}
+
+.sideblock .content h2 {
+	font-size: 1.25em;
+}
+
+/* Correções no bloco dos usuários online */
+div.block_online_users div.content ul.list li {
+	padding: 0px;
+}
+div.block_online_users ul.list {
+	display: inline-table;
+}
+div.block_online_users ul.list li.listentry {
+	display: table-row;
+}
+.block_online_users .listentry div.user,
+.block_messages .listentry div.user {
+	display: table-cell;
+	width: 90%;
+}
+div.sideblock div.content div.message {
+	display: table-cell;
+	text-align: right;
+}
+
+/* Corrigindo bug do menu principal quando a edição está ativada */
+body#site-index.editing div.block_site_main_menu div.footer select {
+	font-size: 0.75em;
+}

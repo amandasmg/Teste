@@ -1,0 +1,88 @@
+
+/*
+ * These styles are ONLY included for IE 7 (via meta.php)
+ */
+
+.sep.arrow {
+  padding-left: 0.5em;
+}
+.tabrow0 div,
+.tabrow0 ul {
+  top: 2.9em;
+}
+div.navbar {
+  height: 2em;
+}
+div.i1 {
+  min-width: 0;
+}
+div#header div.i3,
+div#header-home div.i3 {
+  min-width: 0;
+}
+div.sideblock ul.list li {
+  margin: 0.4em 0;
+}
+.loginbox h2 {
+  font-size: 1.5em;
+}
+div.block_calendar_month div.calendar-controls span.hide {
+  display: none
+}
+div.block_calendar_month div.calendar-controls span.clearer {
+  display: none;
+}
+div.block_calendar_month div.calendar-controls span.current {
+  display: inline;
+}
+div.block_calendar_month div.calendar-controls a.previous {
+  float: left;
+}
+div.block_calendar_month div.calendar-controls a.next {
+  float: right;
+}
+body.dir-rtl div.block_calendar_month div.calendar-controls a.previous {
+  float: right;
+}
+body.dir-rtl div.block_calendar_month div.calendar-controls a.next {
+  float: left;
+}
+#notes-index #content-i3,
+#mod-chat-view #content-i3 {
+  padding-bottom: 15px;
+}
+#notes-index #content-i3 .ccbox,
+#mod-chat-view #content-i3 .ccbox {
+  margin-bottom: 0;
+}
+
+div.block_adminblock {
+	width: 230px !important;
+}
+
+
+/* Solução de um bug estranho dos fóruns */
+div.clearer * {
+	background-image: none !important;
+	background-color: #FFF !important;
+}
+body#mod-forum-index div#content div.ccbox {
+	^width: 45%;
+	text-align: center;
+}
+/*****************************************/
+
+h2.main {
+	background-image: none;
+	border: none;
+}
+
+/* Bug em blog de usuários */
+td#right-column {
+	width: 20% !important;
+}
+
+/* Fonte grande demais em algumas partes do Moodle */
+div.generalbox h4 {
+	font-size: 9pt;
+}
